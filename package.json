@@ -1,7 +1,7 @@
 {
   "name": "vulcanize-demos",
   "version": "1.0.0",
-  "description": "",
+  "description": "a collection of simple demos of Vulcanize",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
