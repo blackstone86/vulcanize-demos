@@ -21,7 +21,7 @@ $ npm install --global vulcanize
 Enter the `demo01` subdirectory.
 
 ```bash
-$ mocha add.test.js
+$ node inline_styles.js
 ```
 
 Now, play with the other examples under the repo's demo* directories.
