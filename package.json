@@ -14,6 +14,8 @@
   "author": "Huang JunWen",
   "license": "MIT",
   "devDependencies": {
+    "broccoli": "^0.16.9",
+    "broccoli-vulcanize": "^2.0.3",
     "grunt": "^0.4.5",
     "grunt-vulcanize": "^1.0.0",
     "gulp": "^3.9.0",
