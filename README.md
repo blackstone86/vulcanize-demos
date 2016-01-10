@@ -26,13 +26,13 @@ $ node inline_styles.js
 
 Now, play with the other examples under the repo's demo* directories.
 
-Build all demos By Grunt
+Build all demos by Grunt
 
 ```bash
 $ grunt
 ```
 
-Build all demos By Gulp
+Build all demos by Gulp
 
 ```bash
 $ gulp
