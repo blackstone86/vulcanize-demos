@@ -1,3 +1,4 @@
 node_modules
-build*.html
 **/.DS_Store
+buildByGulp
+build.html
