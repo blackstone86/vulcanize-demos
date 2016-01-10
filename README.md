@@ -26,6 +26,18 @@ $ node inline_styles.js
 
 Now, play with the other examples under the repo's demo* directories.
 
+Build all demos By Grunt
+
+```bash
+$ grunt
+```
+
+Build all demos By Gulp
+
+```bash
+$ gulp
+```
+
 ## Index
 
 - [demo01: inline style](https://github.com/blackstone86/vulcanize-demos/tree/master/demo01)
