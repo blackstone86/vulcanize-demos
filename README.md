@@ -38,6 +38,12 @@ Build all demos by Gulp
 $ gulp
 ```
 
+Build all demos by Broccoli
+
+```bash
+$ broccoli build buildByBroccoli
+```
+
 ## Index
 
 - [demo01: inline style](https://github.com/blackstone86/vulcanize-demos/tree/master/demo01)
