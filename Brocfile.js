@@ -1,5 +1,5 @@
 var vulcanize = require('broccoli-vulcanize');
-var mergeTrees = require('broccoli-merge-trees')
+var mergeTrees = require('broccoli-merge-trees');
 
 var buildHtml = function(inputTree, fileName, outputUrl){
 	var options = {
