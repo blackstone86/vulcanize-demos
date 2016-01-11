@@ -29,18 +29,5 @@ var demo10 = buildHtml('demo10/html', 'default.html', 'demo10/default.html');
 var demo11 = buildHtml('demo11/html', 'inline-styles.html', 'demo11/inline-styles.html');
 var demo12 = buildHtml('demo12/html', 'default.html', 'demo12/default.html');
 var demo13 = buildHtml('demo13/html', 'xss.html', 'demo13/xss.html');
-module.exports = mergeTrees([demo01
-							,demo02
-							,demo03
-							,demo04
-							,demo05
-							,demo06
-							,demo07
-							,demo08
-							// ,demo09
-							,demo10
-							,demo11
-							,demo12
-							,demo13
-							]);
+module.exports = mergeTrees([demo01,demo02,demo03,demo04,demo05,demo06,demo07,demo08,demo10,demo11,demo12,demo13]);
 
