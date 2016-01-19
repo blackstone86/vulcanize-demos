@@ -18,13 +18,7 @@ $ npm install
 $ npm install --global vulcanize
 ```
 
-Enter the `demo01` subdirectory.
-
-```bash
-$ node inline_styles.js
-```
-
-Now, play with the other examples under the repo's demo* directories.
+Enter the `vulcanize-demos` rootdirectory.
 
 Build all demos by Grunt
 
@@ -42,6 +36,12 @@ Build all demos by Broccoli
 
 ```bash
 $ broccoli build buildByBroccoli
+```
+
+Build all demos Without Build Tool
+
+```bash
+$ node vulcanizeAll.js
 ```
 
 ## Index
