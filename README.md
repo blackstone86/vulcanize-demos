@@ -20,7 +20,7 @@ $ npm install --global vulcanize
 
 Enter the `vulcanize-demos` rootdirectory.
 
-Build all demos by Grunt
+Build all demos by Grunt 
 
 ```bash
 $ grunt
